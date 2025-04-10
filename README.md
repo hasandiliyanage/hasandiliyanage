@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hasandiliyanage
 - 👀 I’m interested in Music and Coding
-- 🌱 I’m currently learning Computer Science as an undergraduate
+- 🌱 I’m a Computer Science undergraduate
 - 📫 How to reach me hasandiliyanage@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a javaphile.(in terms of coffee)

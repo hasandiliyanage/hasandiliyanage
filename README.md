@@ -1,5 +1,8 @@
+Hey there, I’m Hasandi
+I'm passionate about designing interfaces that are both interactive and user-friendly.
 
-<!---
-hasandiliyanage/hasandiliyanage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[ There’s always a pattern in everything - you just have to notice it. ]
+
+
+Connect:
+- LinkedIn: hasandi liyanage (https://www.linkedin.com/in/hasandi-liyanage-8b246723b/)  
